@@ -1,0 +1,3 @@
+Assignment 1: 
+
+How does server and client communicate? Explain why DNS is required?
